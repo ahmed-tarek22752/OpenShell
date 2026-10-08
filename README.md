@@ -61,7 +61,7 @@ The skills teach your agent to drive the OpenShell CLI, write sandbox policies, 
 
 ## SDKs
 
-SDKs connect applications to an OpenShell gateway. They do not install the CLI. Use the same OpenShell release for the SDK and the gateway when possible.
+SDKs connect applications to an OpenShell gateway. They do not install the CLI. Use the same OpenShell release for the SDK and the gateway when possible..
 
 | Language | Install | Docs |
 |---|---|---|
