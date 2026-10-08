@@ -51,7 +51,7 @@ The installer sets up the CLI and a local gateway. The default sandbox image is 
 
 ## Agent Skills
 
-Install the public OpenShell skills for your coding agent:
+Install the public OpenShell skills for your coding agent::
 
 ```shell
 npx skills add NVIDIA/OpenShell
